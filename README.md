@@ -12,11 +12,11 @@ competition "Sum up 27 November's world news in one image".
 
 ## What is on the page
 
-- **30 stories · 9 regions · 13 scenes** — every story happened or was first
+- **31 stories · 9 regions · 13 scenes** — every story happened or was first
   reported on Friday 27 November 2026, verified against its source.
 - **Three leads:** Black Friday opens with a forecast $12.9bn US online day;
-  New Zealand's final count leaves a hung parliament at 65–65; the EU budget
-  summit collapses with no deal on €1.78tn.
+  New Zealand's final count leaves a hung parliament (65 of 130, one short
+  of a majority); the EU budget summit collapses with no deal on €1.78tn.
 - **Ten more drawn scenes:** the Amazon Black Friday strikes in 20+ countries,
   the Gaza Zeitoun strike, Asian markets, gold at $3,632, Japan's ¥56.3tn
   defence plan, Rocket Lab's StriX-14 launch at 00:15 UTC, the Duterte ICC
@@ -44,8 +44,8 @@ deterministic: two runs produce byte-identical output.
 ## Sources
 
 Reuters, AP, Adobe Analytics, the New Zealand Electoral Commission,
-UNI Global Union, Rocket Lab, the ICC, ESPNcricinfo, and the outlets named
-on the page and in `traceability-ledger.json`.
+UNI Global Union, Rocket Lab, the ICC, Upstox, Consumer NZ, TBS NEWS DIG,
+and the outlets named on the page and in `traceability-ledger.json`.
 
 ## License
 
