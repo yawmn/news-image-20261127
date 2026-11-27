@@ -84,6 +84,16 @@ geometry (brief assumed 1518×912 panel / 504×300 final):
 - #13 word caps PASS — headlines unchanged; map labels ≤3 words.
 - #14 count line PASS — "31 STORIES · 9 REGIONS · 13 SCENES ·
   ALL FROM FRIDAY 27 NOVEMBER 2026" matches the ledger.
-- #15 submit status — see below.
+- #15 submit status — SUBMITTED (resubmission). Submission
+  01a21bd2-abe0-74d4-806a-9a69acc844af, accepted HTTP 202,
+  server time 2026-11-27T07:05:21Z, commit
+  b29fc22d4d821c82651cfb5eaa3f5a1fd8234047, signed by wallet
+  D4KsqwkYeH4takLTPs7mCkr78bpZYGwFwDHEcsPGZNkA. Server: stage
+  **checked** — entry passed its checks. Round 1 validity as
+  before (blind rounds, no score yet). Result due Sun 13 Dec 2026
+  08:00 UTC. Claim code issued with the submission (private —
+  retrievable via `makefun status --submission <id>` with the
+  API key; never shared in chat). Old submission 01a21ba2
+  superseded, untouched.
 
 Tally: 14 PASS / 1 PARTIAL (#11) / 0 FAIL.
